@@ -31,7 +31,7 @@ const App=()=>{
 <br/>
 <input 
 type="text" 
-placeholder="Add a item"
+placeholder="Add item"
 value={count}
 onChange={change}
 />
